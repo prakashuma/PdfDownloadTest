@@ -1,0 +1,17 @@
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\TestPdfDownload.deps.json
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\TestPdfDownload.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.csprojAssemblyReference.cache
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.csproj.CoreCompileInputs.cache
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.AssemblyInfoInputs.cache
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.AssemblyInfo.cs
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\TestPdfDownload.runtimeconfig.json
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\TestPdfDownload.runtimeconfig.dev.json
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\bin\Debug\netcoreapp2.1\TestPdfDownload.pdb
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.dll
+C:\Users\165936\source\repos\TestPdfDownload\TestPdfDownload\obj\Debug\netcoreapp2.1\TestPdfDownload.pdb
