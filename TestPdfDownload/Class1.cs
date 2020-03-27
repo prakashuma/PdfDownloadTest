@@ -32,7 +32,6 @@ namespace TestPdfDownload
                      
 
             Task.Run(() => AllowHeadlessDownload(driverService));
-
             /*var tsTimeout = new TimeSpan(0, 5, 0);
             
             ChromeOptions chromeOptions = new ChromeOptions();
